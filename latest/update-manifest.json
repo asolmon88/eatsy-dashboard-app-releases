@@ -2,7 +2,7 @@
   "latest_version": "0.0.1",
   "minimum_supported_version": "0.0.1",
   "installer_url": "https://github.com/asolmon88/eatsy-dashboard-app-releases/releases/download/v0.0.1/eatsy-orders-setup.exe",
-  "sha256": "1592d3aa63d64c9f5c0e50f310f78d757f4756ac6fa0c173f10c987d48af3f00",
+  "sha256": "70a51f58af1e17700a256814822aa455d3c0e04fc014e0dba716b269f1cfd584",
   "notes": "First test update.",
   "published_at": "2026-03-15T18:40:00Z"
 }
