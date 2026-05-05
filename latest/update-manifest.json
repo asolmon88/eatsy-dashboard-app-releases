@@ -1,8 +1,8 @@
 {
-  "latest_version": "0.0.3",
-  "minimum_supported_version": "0.0.3",
-  "installer_url": "https://github.com/asolmon88/eatsy-dashboard-app-releases/releases/download/v0.0.3/eatsy-orders-setup.exe",
-  "sha256": "09b8456ae1167448f94c5fbc7863d54b6f59295c7214dbd3f97049c119fb3fdc",
-  "notes": "First test update.",
-  "published_at": "2026-03-16T23:14:00Z"
+  "latest_version": "0.0.6",
+  "minimum_supported_version": "0.0.6",
+  "installer_url": "https://github.com/asolmon88/eatsy-dashboard-app-releases/releases/download/v0.0.6/eatsy-orders-setup.exe",
+  "sha256": "c651c1e5acad09a154746a7f5e940c083e3ac41d53183792509b1769e82a815a",
+  "notes": "Actualizaciones para obtener recibos.",
+  "published_at": "2026-05-05T01:40:00Z"
 }
