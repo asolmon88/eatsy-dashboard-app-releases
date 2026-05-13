@@ -1,6 +1,6 @@
 {
   "latest_version": "0.0.7",
-  "minimum_supported_version": "0.0.6",
+  "minimum_supported_version": "0.0.7",
   "installer_url": "https://github.com/asolmon88/eatsy-dashboard-app-releases/releases/download/v0.0.7/eatsy-orders-setup.exe",
   "sha256": "584c6615247205f0dec4fce098febd958dc590c2358b293d7a7a6d9401494d4e",
   "notes": "Opciones más claras en tiempo real",
